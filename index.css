@@ -172,11 +172,12 @@ footer{
   
 }
 
-@media only screen and (max-width:563px){
-     hero h2{
+@media only screen and (max-width:563px)
+{
+     .hero h2{
         font-size: 28px;
 }
-hero p{
+.hero p{
     font-size: 15px;
 }
 }
